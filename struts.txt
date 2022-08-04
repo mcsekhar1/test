@@ -1,0 +1,51 @@
+
+
+web.xml
+
+
+
+
+Tag librairies
+
+
+
+
+Form bean& Action classes
+
+
+----------------------------
+
+
+
+Message resources
+===================
+
+
+
+Config files
+
+
+
+Bean 
+
+
+_______
+Action Form:
+	1.DynaActionForm
+	2.ValidatorForm
+	3.DynaValidatorForm
+	
+
+Forms:
+		1.Action
+		2.Include
+		3.Forward
+		4.Switch
+		5.Dispatch
+		6.LookupDispatch
+		7.MappingDispatch
+		8.Locale
+		9.Download
+		
+		
+		
